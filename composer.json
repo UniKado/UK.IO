@@ -1,0 +1,25 @@
+{
+    "name": "uk/io",
+    "description": "The UniKado IO library.",
+    "authors": [
+        {
+            "name": "UniKado",
+            "email": "unikado+pubcode@protonmail.com"
+        }
+    ],
+    "license": "LGPLv3",
+    "require": {
+        "php": ">=7.0",
+        "uk/core.errors": "^0.1.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.4.6"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-0": {
+            "UK\\IO\\": "src/"
+        }
+    }
+}
