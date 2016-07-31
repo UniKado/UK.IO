@@ -27,6 +27,7 @@ and the helper class
 
 * `UK\IO\MimeTypeTool`
 
+
 and last but not least the following exceptions:
 
 * `UK\IO\IOException`
